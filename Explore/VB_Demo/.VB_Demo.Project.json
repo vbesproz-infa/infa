@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "cXnVEavMryrgfvu9RJ2B81",
+    "name" : "VB_Demo",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "For onboarding presentation. Contains prepared mapping",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
